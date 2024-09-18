@@ -1,5 +1,4 @@
 package ejercicios;
-import java.util.Arrays;
 
 public class LCM {
 
